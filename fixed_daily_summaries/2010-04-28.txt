@@ -1,0 +1,129 @@
+CNSX Trading Daily Market Summary April 28 2010 Closing Numbers
+
+Stock                                   	Symbol  	Vol(00s)	        High	     Low	   Close	   Change	           52W Hi	          52W Lo
+Aerocast Inc.                           	A       	     500	       0.180	   0.180	   0.180	   +0.010	            0.295	           0.100
+Acorn Income Corp.                      	ACI     	      20	       0.140	   0.140	   0.140	   +0.040	            0.200	           0.100
+Biosign Technologies Inc.               	BIO     	     100	       0.690	   0.670	   0.690	   +0.020	            0.900	           0.080
+Canadian International Minerals Inc.    	CIN     	     800	       0.100	   0.095	   0.100	   +0.010	            0.160	           0.050
+Chai Cha Na Mining Inc.                 	CNN     	    1100	       0.095	   0.095	   0.095	   -0.005	            0.300	           0.080
+Cougar Minerals Corp.                   	COU     	    1700	       0.090	   0.075	   0.075	   -0.010	            0.190	           0.040
+Copper Reef Mining Corp.                	CZC     	     500	       0.070	   0.070	   0.070	   -0.005	            0.330	           0.025
+Dynamic Resources Corp.                 	DYR     	      10	       0.005	   0.005	   0.005	    0.000	            0.060	           0.005
+Ecosse Energy Corp.                     	ECS     	     350	       0.120	   0.105	   0.105	   -0.020	            0.330	           0.105
+EasyMed Services Inc.                   	EZM     	     212	       1.180	   1.140	   1.180	   +0.010	            1.250	           0.850
+First Choice Products Inc.              	FCI     	      30	       0.100	   0.100	   0.100	   +0.060	            0.310	           0.100
+Great Bear Resources Ltd.               	GBR     	     830	       0.510	   0.500	   0.500	   -0.030	            0.750	           0.020
+Gamecorp Ltd.                           	GGG     	      10	       0.020	   0.020	   0.020	   -0.030	            0.080	           0.005
+Golden Cross Resources Inc.             	GOX     	     220	       0.065	   0.060	   0.060	   -0.010	            0.100	           0.060
+GoldTrain Resources Inc.                	GT      	      20	       0.030	   0.030	   0.030	   -0.040	            0.130	           0.020
+Colt Resources Inc.                     	GTP     	     720	       0.310	   0.300	   0.310	    0.000	            0.340	           0.070
+Hilltown Resources Inc.                 	HLT     	    1000	       0.060	   0.060	   0.060	   -0.010	            0.130	           0.060
+Cancor Mines Inc.                       	KCR     	     675	       0.080	   0.070	   0.080	   +0.030	            0.080	           0.010
+Kokomo Enterprise                       	KKO     	     300	       0.080	   0.080	   0.080	    0.000	            0.230	           0.050
+Mahdia Gold Corp.                       	MGD     	     100	       0.180	   0.180	   0.180	   -0.030	            0.260	           0.150
+Mantis Minerals Corp.                   	MYN     	     690	       0.030	   0.030	   0.030	    0.000	            0.150	           0.025
+Plaintree Systems Inc.                  	NPT     	      18	       0.015	   0.015	   0.015	    0.000	            0.300	           0.010
+Otterburn Ventures Inc.                 	OTB     	     200	       0.070	   0.050	   0.070	   +0.045	            0.070	           0.025
+Preo Software Inc.                      	PKM     	      10	       0.120	   0.120	   0.120	    0.000	            0.220	           0.060
+PetroWorth Resources Inc.               	PTW     	    2130	       0.200	   0.200	   0.200	   +0.030	            0.300	           0.100
+Redzone Resources Ltd.                  	REZ     	     975	       0.550	   0.520	   0.520	   -0.080	            0.750	           0.160
+Range Energy Resources Inc.             	RGO     	      10	       0.180	   0.180	   0.180	    0.000	            0.600	           0.100
+Regal Resources Inc.                    	RGR     	      30	       0.340	   0.340	   0.340	   -0.010	            0.455	           0.080
+RT Minerals Corp.                       	RTM     	       5	       0.200	   0.200	   0.200	   +0.020	            0.400	           0.035
+RX Exploration                          	RXE     	    1005	       0.580	   0.550	   0.550	    0.000	            0.650	           0.165
+Scarlet Resources Ltd.                  	SCT     	     443	       0.660	   0.600	   0.630	   +0.030	            0.660	           0.170
+Stoneset Equity Development Corp.       	SQC     	      50	       0.200	   0.200	   0.200	    0.000	            1.000	           0.200
+TrustMark Auto Group Inc.               	TAF     	      30	       0.200	   0.200	   0.200	   +0.060	            0.250	           0.050
+TinyMassive Technologies Inc.           	TNY     	     650	       0.110	   0.100	   0.110	   +0.020	            0.310	           0.065
+Trevali Resources Corp.                 	TV      	     855	       1.210	   1.170	   1.210	   -0.040	            1.800	           0.600
+The B.E.S.T. Discoveries Fund Inc. Cl. L	VC      	      46	       2.250	   2.160	   2.250	   +0.150	            2.250	           0.100
+Worldwide Promotional Management Inc.   	WRL     	     100	       0.200	   0.200	   0.200	   -0.050	            0.550	           0.110
+Excalibur Resources Ltd.                	XBR     	      65	       0.220	   0.220	   0.220	    0.000	            0.220	           0.005
+
+Stock                                   	Symbol  	     Bid	     Ask	           52W Hi	          52W Lo
+ACFAW.com                               	ACW     	   0.055	   0.080	            0.145	           0.010
+Arris Holdings Inc.                     	AHI     	   0.050	        	                 	                
+Arctic Hunter Uranium Inc.              	AHU     	   0.110	   0.205	            0.395	           0.105
+Alliance Mining Corp.                   	ALM     	   0.080	   0.095	            0.150	           0.030
+Airesurf Networks Holdings Inc.         	ANH     	        	        	            0.030	           0.020
+Armada Mercantile Ltd.                  	ARM.U   	   0.065	   0.155	            0.105	           0.015
+Ateba Resources Inc.                    	ATR     	   0.065	   0.030	            0.100	           0.050
+Avaranta Resources Ltd.                 	AVN     	   0.205	   0.470	            0.200	           0.010
+Bird River Mines Inc.                   	BDR     	   0.050	   0.060	            0.080	           0.045
+Bestar Inc.                             	BES     	   0.150	   0.300	            0.350	           0.125
+Manitoba Builder Bonds IX - 5yr Ann Fixe	BIA.DB.B	  99.000	        	          100.100	         100.000
+Manitoba Builder Bonds IX - 5yr Cpd Fixe	BIC.DB  	        	        	          100.000	         100.000
+MB Builder Bonds 3 yr Ann Fix 3.5%      	BJA.DB.A	        	        	          100.150	         100.000
+MB Builder X Jun 15/13 Annual Fix 1.00% 	BJF.DB  	        	        	          100.000	         100.000
+MB Builder XI 3yr Fixed 2.0% 6/15/12    	BKA.DB.A	        	        	          100.000	          99.900
+MB Builder 5yr Fltg 1.00% 6/15/14       	BKF.DB  	        	        	          100.000	         100.000
+Burnstone Ventures Inc.                 	BVE     	   0.050	   0.005	            0.140	           0.045
+Beatrix Ventures Inc.                   	BXV     	   0.040	   0.005	            0.050	           0.040
+Bryant Resources Inc                    	BYR     	   0.170	        	            0.320	           0.255
+CCR Technologies Ltd.                   	CRL     	   0.010	   0.005	            0.015	           0.005
+Covenant Resources Ltd                  	CVA     	   0.050	   0.100	            0.150	           0.020
+Cayenne Gold Mines Ltd.                 	CYN     	   0.050	   0.050	            0.380	           0.050
+Eurogas International Inc.              	EI      	   0.060	   0.030	            0.150	           0.010
+ESI Entertainment Systems Inc.          	ESY     	        	   0.050	            0.180	           0.005
+Freeport Capital Inc.                   	FAS     	   0.180	   0.250	            0.350	           0.050
+Fire River Gold Corp.                   	FAU     	        	        	            0.630	           0.300
+Far City Mining Inc.                    	FCH     	        	        	            0.230	           0.200
+Fort Chimo Minerals Inc.                	FCM     	   0.025	   0.045	            0.055	           0.025
+Cuervo Resources Inc.                   	FE      	   0.335	   0.350	            0.630	           0.280
+Fulcrum Resources Inc.                  	FLR     	        	   0.010	                 	                
+Global Biotech Corp.                    	GBQ     	   0.180	   0.270	            0.670	           0.180
+God s Lake Resources Inc.               	GLR     	   0.750	   0.870	            1.000	           0.500
+Immunall Science Inc.                   	GNS     	   0.010	   0.005	            0.105	           0.005
+Gold Reef International Inc             	GRQ     	   0.010	   0.050	            0.030	           0.005
+Glenbriar Technologies Inc.             	GTI     	   0.020	   0.035	            0.050	           0.010
+HiHo Silver Resources Inc.              	HHS     	   0.035	   0.095	            0.080	           0.030
+Manitoba Hydro Bonds 9 - 5yr Cpd Fixed 4	HIC.DB  	  99.000	        	          100.050	          99.000
+Manitoba Hydro Bonds 10 - 3yr Ann Fixed 	HJA.DB.A	  99.000	        	          102.000	         100.000
+Manitoba Hydro Bonds 10 - 5yr Ann Fixed 	HJA.DB.B	  99.000	        	          101.500	         100.000
+Manitoba Hydro Bonds 10 - 5yr Cpd Fixed 	HJC.DB  	  99.000	        	          110.000	         100.000
+Manitoba Hydro Bonds 10 - Ann Ftg. 1.00%	HJF.DB  	        	        	           99.750	          99.750
+Hy Lake Gold Inc.                       	HYL     	   0.130	   0.160	            0.250	           0.070
+Manitoba Hydro Bonds 9 - Ann Fltg 1%6/15	IFH.DB  	        	        	          100.000	         100.000
+La Imperial Resources Inc.              	LAI     	   0.065	   0.150	            0.100	           0.005
+Lands End Resources Ltd.                	LND     	        	   0.100	            0.190	           0.030
+Lexaria Corp.                           	LXX     	   0.120	   0.085	            0.180	           0.085
+McLaren Resources Inc.                  	MCL     	   0.130	   0.170	            0.250	           0.100
+Minerva Minerals Ltd.                   	MIL     	   0.200	        	            0.200	           0.050
+Magna Resources Ltd.                    	MNA     	   0.140	   0.190	            0.250	           0.120
+Micromem Technologies Inc.              	MRM     	   0.360	   0.490	            2.100	           0.350
+Next Gen Metals Inc.                    	N       	   0.150	   0.480	            0.320	           0.150
+Nass Valley Gateway Ltd.                	NVG     	   0.045	   0.085	            0.100	           0.015
+Orca Power Corp.                        	OP      	   0.025	   0.005	            0.120	           0.010
+OnePak Inc.                             	OPK     	   0.450	   0.750	            0.500	           0.400
+Ona Power Corporation                   	OPO     	   0.100	   0.200	            0.750	           0.150
+Petrol One Corp.                        	POV     	   0.250	   0.200	            0.250	           0.115
+Park Lawn Company Limited               	PRL     	   3.250	  12.000	            3.000	           2.000
+Platoro West Holdings Inc.              	PWH     	   0.030	   0.040	            0.055	           0.010
+Quinsam Capital Corporation             	QCA     	   0.010	   0.030	            0.020	           0.015
+Redzone Resources Inc. Wts.             	REZ.WT  	   0.050	   0.300	            0.050	           0.020
+Renforth Resources Inc.                 	RFR     	   0.015	   0.050	            0.050	           0.010
+Range Gold Corp.                        	RGU     	   0.150	   0.005	            0.250	           0.010
+CIC Mining Resources Ltd.               	RRR     	        	   0.010	            0.150	           0.010
+RTN Stealth Software Inc.               	RTN     	   0.300	   1.000	            0.400	           0.220
+Stealth Energy Inc                      	SLH     	   0.160	   0.175	            0.240	           0.050
+Silver Phoenix Resources Inc.           	SP      	        	   0.510	            0.580	           0.500
+Sunorca Development Corp.               	SUN     	   0.035	   0.050	            0.200	           0.005
+Talmora Diamond Inc.                    	TAI     	   0.010	   0.010	            0.030	           0.010
+TAC Gold Corp.                          	TCG     	   0.170	   0.200	            0.310	           0.170
+Triple Dragon Resources Inc.            	TDN     	   0.145	   0.220	            0.300	           0.125
+Triangle Multi-Services Corp.           	TMS     	        	   0.010	                 	                
+Toro Resources Corp.                    	TRK     	   0.180	   0.300	            0.250	           0.040
+VisionSky Corporation                   	VKY     	        	   0.450	            0.010	           0.010
+Valterra Resource Corp.                 	VTA     	   0.060	   0.080	            0.160	           0.025
+Wedge Energy International Inc.         	WEG     	   0.005	   0.060	            0.100	           0.005
+West Isle Energy Inc.                   	WEI     	   0.040	   0.395	            0.100	           0.020
+
+	              Trades:	            150
+	        Total Volume:	      1,647,997
+	         Total Value:	       $470,191
+	            Advanced:	             13
+	            Declined:	             14
+	           Unchanged:	            100
+
+Note 1:  z - Full Volume.
+Note 2:  Change calculated using unadjusted closing prices.

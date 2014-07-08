@@ -1,0 +1,102 @@
+ CNQ Daily Market Summary June 20 2007 Closing Numbers
+
+Stock               Symbol         Vol(00s)	   High	    Low	  Close	  Change	   52W Hi	   52W Lo
+American Insul      AIKI.U              420	  0.095	   0.08	   0.08	    0.00	     0.17	    0.075
+Thunderbird Res     BIRD.U                3	   1.84	   1.55	   1.55	    0.00	     1.85	     0.64
+Bannockburn Res     BKNN                 31	   7.40	   7.40	   7.40	    0.00	     7.50	    0.405
+Bird River Mines    BRMI                 56	   0.05	   0.05	   0.05	    0.00	     0.18	     0.05
+Cadillac Ventures   CDEX                  2	       	       	       	        	     0.70	     0.50
+CICM.U              CICM.U              250	  0.215	   0.21	   0.21	    0.00	     0.69	     0.21
+COLT                COLT                 50	   0.04	   0.04	   0.04	    0.00	     0.05	     0.02
+Cougar Min          COUG                170	  0.165	   0.16	   0.16	  +0.005	     0.35	     0.14
+Creation Casinos IncCSNO                195	   0.20	   0.20	   0.20	    0.00	     0.52	     0.15
+Dynamic Res         DYRF               1050	  0.145	  0.135	  0.135	    0.00	     0.26	     0.08
+Excelsior           EXEL               1026	   1.11	   1.05	   1.09	   +0.06	     1.50	    0.115  
+Garson Res.         GARR                250	   0.31	   0.31	   0.31	   +0.03	     0.39	    0.055
+GLG Life Tech       GLGT                170	   3.30	   3.20	   3.30	   +0.10	     3.30	     0.25
+Geo Prospecting     GPHY                100	   0.05	   0.05	   0.05	   +0.01	     0.06	     0.01
+Gold Reef           GRIN                 30	   0.75	   0.75	   0.75	    0.00	     1.40	     0.50
+Hawk Uranium        HAWK               1290	   0.30	  0.265	   0.28	   +0.01	     0.83	     0.05
+Hi Ho               HIHO                170	   1.30	   1.30	   1.30	   +0.05	     2.15	     0.50
+Hy Lake Gold Inc.   HYLK                150	   1.10	   1.03	   1.10	    0.00	     1.90	     0.20
+Cuervo Resources    IRON               1000	   1.03	   1.03	   1.03	   +0.01	     1.40	     0.70
+Lebon Gold          LBON                200	   0.37	   0.37	   0.37	    0.00	     0.55	     0.17
+Bldr Bnds 4.25% A 08MBGA.D.B            191	 100.00	 100.00	 100.00	    0.00	   100.00	   100.00
+Bldr Bnds An F 4.45 MBHA.D               73	  98.00	  98.00	  98.00	    0.00	    98.00	    98.00
+Man Hyd Bnd9 4% AFR MHIF.D             1555	 100.00	 100.00	 100.00	    0.00	   100.00	   100.00
+Man Hyd 10 AFR 4.20%MHJF.D               12	 100.00	 100.00	 100.00	    0.00	   100.00	   100.00
+Mantis Mineral Corp MINT              10705	   0.05	   0.03	   0.03	    0.00	     0.05	     0.03
+NA Vanadium         NAVI                 80	   1.40	   1.30	   1.40	    0.00	     1.76	     0.55
+Nass Valley Gate    NVGL                290	   0.30	   0.25	   0.30	    0.00	     0.45	     0.25
+PETROL ONE CORP.    PONE                 40	   0.70	   0.70	   0.70	    0.00	     2.50	     0.67
+PetroWorth          PTWR               1492	   2.75	   2.60	   2.70	    0.00	     3.00	     0.35
+Redzone Res         REDZ                 35	   0.40	   0.40	   0.40	   +0.05	     0.43	     0.30
+RX Exploration      RXEX               3700	  0.105	  0.105	  0.105	  +0.005	     0.12	     0.05
+St Genevieve Res    SGVL                z80	       	       	       	        	    0.085	     0.02
+Vital               VITL                500	  0.145	   0.14	   0.14	    0.00	     0.48	     0.14
+VisionSky           VSKY                 20	   0.22	   0.22	   0.22	    0.00	     0.48	     0.20
+
+Stock               	Symbol      	Bid    	Ask    	52W High 	52W Low  
+Armada Merc Ltd.    	AARM        	0.30   	0.47   	0.75     	0.25     
+ACE/Securitiy       	ACEX        	0.01   	0.03   	0.14     	0.005    
+AireSurf Ntwk Hold  	AIRE        	0.05   	0.25   	0.10     	0.03     
+Bassett Ven         	BAVI.U      	0.16   	0.50   	0.95     	0.11     
+Bison Gold Exp.     	BGEI        	0.12   	0.37   	0.60     	0.10     
+Biosign Tech        	BIOS        	1.00   	1.30   	1.60     	0.48     
+Calstar Oil & Gas   	CALS        	0.065  	0.09   	0.16     	0.035    
+Calstar Oil & Gas Wt	CALS.W.B    	0.01   	0.02   	0.00     	0.00     
+Cayenne Gold Mines  	CAYN        	0.20   	1.00   	1.10     	1.00     
+Copper Belt Res     	CBRL        	0.065  	0.08   	0.48     	0.065    
+CDG Invest          	CDGI        	0.02   	5.00   	0.065    	0.01     
+Citrine Holding     	CTHL        	0.03   	1.00   	0.09     	0.02     
+Eagle Star          	EAGL        	0.25   	0.30   	0.49     	0.21     
+Excalibur Res       	EXBR        	0.06   	0.085  	0.085    	0.04     
+Fort Chimo          	FORT        	0.035  	0.05   	0.08     	0.01     
+Glenbriar Tech      	GBRT        	0.06   	0.10   	0.11     	0.04     
+Ialta Industries Ltd	ILTA        	0.03   	0.07   	0.13     	0.025    
+Interquest Inc.     	IQIT        	0.025  	0.04   	0.08     	0.01     
+Lakefield Mrkting   	LKFD        	0.01   	0.05   	0.02     	0.01     
+Bldr Bnds Cpd Fix 4.	MBGC.D      	0.00   	0.00   	0.00     	0.00     
+Bldr Bnds An FL 3.15	MBGF.D      	0.00   	0.00   	0.00     	0.00     
+Bldr Bnds Cpd F 4.45	MBHC.D      	0.00   	0.00   	0.00     	0.00     
+Bldr Bnds Ann FL 2.1	MBHF.D      	0.00   	0.00   	0.00     	0.00     
+Bldr Bnds Ann 3.25% 	MBIA.D.A    	0.00   	100.00 	0.00     	0.00     
+Bldr Bonds Ann 3.70%	MBIA.D.B    	0.00   	0.00   	0.00     	0.00     
+Bldr Bnds Cpd 3.70% 	MBIC.D      	0.00   	0.00   	0.00     	0.00     
+Bldr Bnds Ann Fl 2.6	MBIF.D      	0.00   	0.00   	0.00     	0.00     
+SCO Medallion       	MEDA        	0.00   	0.005  	0.04     	0.005    
+Man HYD Bnd9  4.15% 	MHIA.D.A    	0.00   	0.00   	0.00     	0.00     
+Man Hyd Bnd9 4.35%  	MHIA.D.B    	0.00   	0.00   	0.00     	0.00     
+Man Hyd Bnd9 4.35%  	MHIC.D      	0.00   	0.00   	0.00     	0.00     
+Man Hyd Bn10 AFR 4.6	MHJA.D.A    	0.00   	0.00   	0.00     	0.00     
+Man Hyd Bnd10 4.65% 	MHJA.D.B    	0.00   	0.00   	0.00     	0.00     
+Man Hyd 10 CFR 4.65%	MHJC.D      	0.00   	0.00   	0.00     	0.00     
+L.G.R.              	MHPT        	0.13   	0.50   	0.75     	0.15     
+MLB                 	MLBQ        	0.005  	0.03   	0.16     	0.005    
+Nova Growth         	NOVA        	0.29   	0.65   	0.75     	0.10     
+NRG                 	NRGI        	3.00   	3.50   	3.00     	1.50     
+Nexia Biotech       	NXBL        	0.31   	0.355  	0.45     	0.25     
+ONA Energy          	OEIX        	0.75   	1.40   	3.00     	0.68     
+Perial Ltd.         	PERL        	0.06   	0.135  	0.135    	0.135    
+Park Lawn Company   	PLCL        	2.75   	12.50  	18.50    	1.06     
+Range Metals Inc.   	RMIC        	1.10   	1.25   	2.00     	0.50     
+Roxmark Mines Ltd   	RMKL        	0.125  	0.45   	0.35     	0.10     
+Rockhaven           	ROCK        	0.46   	0.60   	0.46     	0.40     
+Seafield Res. Ltd.  	SEAF        	0.15   	0.20   	0.25     	0.10     
+Wintercrest Res     	SMRT        	0.00   	0.025  	0.005    	0.005    
+Simplex             	SPLX        	0.015  	0.05   	0.135    	0.005    
+Sunorca Dev.        	SUNO        	0.10   	0.14   	0.15     	0.04     
+Talmora Diamond     	TALM        	0.05   	0.10   	0.10     	0.05     
+Triple Dragon       	TDRN        	0.28   	0.34   	0.35     	0.26     
+Titan Emp Serv Ltd  	TESI        	0.35   	0.80   	0.00     	0.00     
+Triangle MS Corp.   	TTTM        	0.04   	0.06   	0.05     	0.02     
+United Reef Ltd     	URPL        	0.03   	1.00   	0.00     	0.00     
+VisionSky Wts       	VSKY.W      	0.00   	0.00   	0.00     	0.00     
+Wildcat             	WILD        	0.51   	0.55   	1.88     	0.45     
+Gray Wolf Deb       	WOLF.D      	0.00   	25.00  	40.00    	40.00    
+Gray Wolf Cl B Pr.  	WOLF.P.B    	0.00   	0.005  	0.05     	0.005    
+
+   Total Volume    Total Value    # of Trades       Advanced       Declined      Unchanged
+      2,530,856     $1,113,999            153             10              0             22
+
+Note:  z - Full Volume.

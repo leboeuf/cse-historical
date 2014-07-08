@@ -1,0 +1,105 @@
+CNQ Trading Daily Market Summary October 23 2008 Closing Numbers
+
+Stock                                   	Symbol  	Vol(00s)	High	Low	Close	Change	52W Hi	52W Lo
+Aerocast Inc.                           	A       	450	0.09	0.09	0.09	0.00	0.10	0.085
+AireSurf Networks Inc                   	ANH     	200	0.05	0.04	0.04	-0.01	0.05	0.04
+Avanti Mining Inc.                      	AVT     	415	0.10	0.10	0.10	-0.02	0.15	0.04
+Bison Gold Exploration Inc.             	BGE     	50	0.05	0.05	0.05	0.03	0.05	0.05
+Biosign Technologies Inc.               	BIO     	550	0.20	0.18	0.20	0.00	0.20	0.18
+Canadian International Minerals Inc.    	CIN     	100	0.04	0.04	0.04	-0.01	0.32	0.04
+Cougar Minerals Corp.                   	COU     	120	0.05	0.05	0.05	0.00	0.05	0.05
+Continent Resources Inc.                	CTT     	400	0.20	0.20	0.20	0.01	0.20	0.15
+Dynamic Resources Corp.                 	DYR     	640	0.09	0.08	0.08	0.02	0.10	0.08
+Mantis Minerals Corp.                   	MYN     	590	0.07	0.07	0.07	0.02	0.07	0.05
+Nexia Biotechnologies                   	NBL     	20	0.04	0.04	0.04	0.00	0.04	0.04
+Orca Power Corp.                        	OP      	160	0.10	0.10	0.10	0.00	0.10	0.10
+Petrol One Corp.                        	POV     	735	0.30	0.30	0.30	0.20	0.56	0.30
+PetroWorth Resources Inc.               	PTW     	115	0.26	0.26	0.26	0.00	0.31	0.26
+Platoro West Holdings Inc.              	PWH     	200	0.04	0.04	0.04	-0.02	0.04	0.04
+Quinsam Capital Corporation             	QCA     	70	0.02	0.02	0.02	-0.01	0.02	0.02
+Range Metals Inc.                       	RGO     	140	0.40	0.38	0.38	0.19	0.57	0.38
+Stealth Energy Inc                      	SLH     	100	0.11	0.11	0.11	-0.02	0.18	0.11
+Talmora Diamond Inc.                    	TAI     	140	0.02	0.02	0.02	-0.01	0.02	0.02
+Thunderbird Resorts Inc.                	TBI.U   	3	4.25	4.25	4.25	-1.00	5.25	4.25
+Trevali Resources Corp.                 	TV      	18	0.89	0.80	0.80	-0.20	1.00	0.80
+VisionSky Corp.                         	VKY     	10	0.08	0.08	0.08	-0.11	0.08	0.08
+Veraz Petroleum Ltd.                    	VRZ     	950	0.31	0.25	0.31	0.02	0.32	0.25
+Vital Resources Corp.                   	VTL     	400	0.02	0.02	0.02	-0.01	0.02	0.015
+
+
+
+
+Stock                                   	Symbol  	Bid	Ask	52W Hi  52W Lo
+Arris Resources Inc.                    	AAS.U   	0.60	0.45	0.91	0.35
+Arctic Hunter Uranium Inc.              	AHU     	0.20	0.30	0.25	0.20
+Alliance Mining Corp.                   	ALM     	0.05	0.07	0.23	0.09
+Airesurf Networks Holdings Inc.         	ANH     	0.05	0.07	0.15	0.05
+Armada Mercantile Ltd.                  	ARM     	0.10	0.17	0.60	0.08
+Bird River Mines Inc.                   	BDR     	0.08	0.16	0.15	0.08
+Bison Gold Exploration Inc.             	BGE     	0.05	0.13	0.27	0.01
+Manitoba Builder Bonds VIII - 5yr Ann Fi	BHA.DB  	99.40	100.00	101.49	99.07
+Bryant Resources Inc                    	BYR     	0.25	1.00	0.00	0.00
+Cadillac Ventures Inc.                  	CDC     	0.35	0.44	1.00	0.35
+Canadian International Minerals Inc.    	CIN     	0.04	0.15	0.32	0.05
+Cougar Minerals Corp.                   	COU     	0.05	0.07	0.08	0.01
+Covenant Resources Ltd                  	CVA     	0.07	0.15	0.20	0.06
+Cayenne Gold Mines Ltd.                 	CYN     	0.02	        0.60	0.09
+ITI World Investment Group Inc. Cl. A   	FCI     	0.10	0.20	0.36	0.24
+Fort Chimo Minerals Inc.                	FCM     	0.01	0.02	0.03	0.01
+Cuervo Resources Inc.                   	FE      	0.24	0.31	2.60	0.28
+Gamecorp Ltd.                           	GGG     	0.32	0.32	0.50	0.02
+Immunall Science Inc.                   	GNS     	0.10	0.15	0.20	0.06
+Golden Cross Resources Inc.             	GOX     	0.04	0.08	0.10	0.04
+Gold Reef International, Inc            	GRQ     	0.01	0.07	0.90	0.01
+Glenbriar Technologies Inc.             	GTI     	        0.12	0.15	0.03
+Colt Resources Inc.                     	GTP     	0.18	0.23	0.44	0.12
+HiHo Silver Resources Inc.              	HHS     	0.15	0.28	0.38	0.25
+Wintercrest Resources Ltd.              	HIP     	        0.20	0.00	0.00
+Manitoba Hydro Bonds 10 - 3yr Ann Fixed 	HJA.DB.A	99.60	        100.00	98.87
+HMZ Metals Inc.                         	HMZ     	        0.01	0.09	0.01
+Hy Lake Gold Inc.                       	HYL     	0.14	0.15	1.15	0.05
+CB Resources Ltd.                       	ICD     	0.03	0.05	0.10	0.03
+American Insulock Inc.                  	INS.U   	0.02	0.05	0.07	0.01
+La Imperial Resources Inc.              	LAI     	0.05	0.14	0.35	0.07
+Lebon Gold Mines Limited                	LBO     	0.08	0.10	0.29	0.08
+Magna Resources Ltd.                    	MNA     	0.15	0.30	0.00	0.00
+Nexia Biotechnologies Ltd.              	NBL     	0.04	0.10	0.29	0.04
+Plaintree Systems Inc.                  	NPT     	        0.19	0.25	0.10
+Nass Valley Gateway Ltd.                	NVG     	0.06	0.15	0.26	0.03
+ONA Energy Inc.                         	OEE     	0.30	0.87	1.05	0.30
+Orca Power Corp.                        	OP      	0.10	0.15	0.15	0.10
+Otterburn Ventures Inc.                 	OTB     	0.08	0.20	0.30	0.08
+Preo Software Inc.                      	PKM     	0.04	0.15	0.18	0.01
+Petrol One Corp.                        	POV     	0.42	0.20	1.13	0.37
+Park Lawn Company Limited               	PRL     	2.25	       	3.00	2.75
+Platoro West Holdings Inc.              	PWH     	0.04	0.10	0.20	0.06
+Quinsam Capital Corporation             	QCA     	0.02	0.04	0.07	0.01
+Redzone Resources Ltd.                  	REZ     	0.10	0.30	0.60	0.35
+Range Metals Inc.                       	RGO     	0.40	0.45	0.80	0.18
+Range Gold Corp.                        	RGU     	0.05	0.13	0.35	0.05
+CIC Mining Resources Ltd.               	RRR     	        0.10	0.13	0.03
+RT Minerals Corp.                       	RTM     	0.03	0.13	0.18	0.10
+Revolution Technologies Inc.            	RVL     	0.01	0.04	0.05	0.03
+RX Exploration                          	RXE     	0.21	0.30	0.72	0.14
+Sunorca Development Corp.               	SUN     	0.06	0.08	0.19	0.06
+TrustMark Auto Group Inc.               	TAF     	0.40	0.68	1.31	0.35
+Talmora Diamond Inc.                    	TAI     	0.02	       	0.10	0.01
+Triple Dragon Resources Inc.            	TDN     	0.05	0.25	0.40	0.14
+Triangle Multi-Services Corp.           	TMS     	0.05	0.10	0.07	0.01
+Toro Resources Corp.                    	TRK     	0.02	0.07	0.35	0.07
+VisionSky Corporation                   	VKY     	0.05	0.08	0.25	0.09
+Valterra Resource Corp.                 	VTA     	0.03	0.06	0.33	0.04
+Wedge Energy International Inc.         	WEG     	0.01	0.10	0.40	0.01
+Excalibur Resources Ltd.                	XBR     	0.03	0.03	0.10	0.02
+Zab Resources Inc                       	ZAB     	0.01	0.04	0.06	0.02
+
+
+	              Trades:	             71
+	        Total Volume:	        667,602
+	         Total Value:	       $105,045
+	            Advanced:	              4
+	            Declined:	             13
+	           Unchanged:	             86
+
+Note 1:  z - Full Volume.
+Note 2:  Change calculated using unadjusted closing prices.
