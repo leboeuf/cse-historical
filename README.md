@@ -2,7 +2,7 @@
 
 This is a PHP script to download historical data from the Canadian Securities Exchange (CSE, formerly CNSX). It will give you a bunch of txt files, one for each trading day, containing trading data for all securities on that date.
 
-# Trivialities
+# Notes
 
 The oldest file available is from 2005-05-24.
 
